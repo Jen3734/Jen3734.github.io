@@ -83,7 +83,9 @@ author:
   name             : "Ma, Runchu"
   avatar           : "selfie.jpg"
   bio              : "Software and Algorithm Engineer working in the medical imaging device field"
-  location         : "Beijing, China; \nAnn Arbor, MI; \nLake Forest, IL"
+  location         : "Beijing, China"
+  location         : "Ann Arbor, MI"
+  location         : "Lake Forest, IL"  
   employer         :
   pubmed           :
   googlescholar    : 
