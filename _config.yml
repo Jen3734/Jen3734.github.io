@@ -84,8 +84,7 @@ author:
   avatar           : "selfie.jpg"
   bio              : "Software and Algorithm Engineer working in the medical imaging device field"
   location         : "Beijing, China"
-  location         : "Ann Arbor, MI"
-  location         : "Lake Forest, IL"  
+  history          : "Ann Arbor, MI; Lake Forest, IL"
   employer         :
   pubmed           :
   googlescholar    : 
