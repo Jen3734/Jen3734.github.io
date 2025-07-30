@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo A. Lobos"
+title                    : "Ma, Runchu"
 title_separator          : "-"
-name                     : &name "Rodrigo A. Lobos"
-description              : &description "personal description"
-url                      : https://ralobos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ma, Runchu"
+description              : &description "Lead Image Quality Engineer at GEHC China"
+url                      : https://Jen3734.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ralobos.github.io"
+repository               : "Jen3734.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
-  avatar           : "pic_rl_scaled579.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
-  location         : "Ann Arbor, MI"
+  name             : "Ma, Runchu"
+  avatar           : "selfie.jpg"
+  bio              : "Software and Algorithm Engineer working in the medical imaging device field"
+  location         : "Beijing, China; Ann Arbor, MI; Lake Forest, IL"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=ZaQzXbUAAAAJ&hl=en&oi=ao"
-  email            : #"rlobos@usc.edu"
+  googlescholar    : 
+  email            : #"jennifermacn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
