@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ma, Runchu"
-  avatar           : "./images/selfie.jpg"
+  avatar           : "selfie.jpg"
   bio              : "Algorithm Software Engineer working in the Medical Imaging Field"
   location         : "Beijing, China"
   location         : "Ann Arbor, MI"
