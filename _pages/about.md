@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_rlobos_2024.pdf)
+[Resume](https://ralobos.github.io/files/CV_rlobos_2024.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+Hello, I am a Lead Image Quality Engineer at GE Healthcare based in Beijing, China. I completed my Master's Degree at the University of Michigan (Ann Arbor, MI). My interests include computed tomography(CT), computational imaging, machine learning and software engineering. I have worked in CT software team for 3 years and is currently a member of CT recon team. I am passionate about computational software and strive to create more powerful and scalable computational system in medical devices. I use the skills in both software and hardware to enhance the performance of imaging algorithms. I also enjoy archery and biking in my free time. Feel free to explore my website for more information about my work and interest. 
